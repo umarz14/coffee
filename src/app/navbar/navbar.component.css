@@ -1,0 +1,18 @@
+.navbar{
+    background-color: #bdb6b2;
+}
+.navbar-brand {
+    /* Get rid of awkward right space */
+    margin-right: 0; 
+    padding: 0 5em;
+    color: black;
+}
+.navbar-nav {
+    align-items: center;
+}
+
+.navbar-nav .nav-link {
+    color: black;
+    font-size: 1.1em;
+    padding: 0em 2em;
+}
